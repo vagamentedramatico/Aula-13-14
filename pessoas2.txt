@@ -1,0 +1,7 @@
+ko:5
+a:2
+t:0
+thi:56
+João:29
+João:29
+Thiago:31

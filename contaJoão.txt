@@ -1,0 +1,5 @@
+João_42465
+1;Computador;1000.0
+2;Maçã;0.8
+3;Presente;23.0
+4;Bacalhau;30.0
